@@ -1,8 +1,5 @@
-# Zavodskov_qa
-[CV and experience](LevRecommendationLetter.pdf)
+# Lev Zavodskov
 
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1kGc0Jmc9eN3QALCAo8hSX7fDzXEPau23y_x5_9HuxMk/edit?usp=sharing)
-
----
-
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1YvTbrTTe9RYqOy-mqaErhjEIOf66qN3s2qwJuLHf9f4/edit#gid=0)
+[Set of skills and expreience](CV_Lev_Zavodskov_English.pdf)
+[Recomendation Letter From Last Work Place](LevRecommendationLetter.pdf)
+[English certification](https://www.efset.org/cert/QqPVNG)
