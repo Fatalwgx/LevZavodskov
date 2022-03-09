@@ -15,5 +15,5 @@
 - 09.11.2021 - present / Employed at "IT TEST tula" outstaff company as a remote Manual QA Engineer
   - 09.11.2021 - 01.03.2022 / Assigned to an American database redesign project at Markov Processes International as 
   Middle Manual QA Engineer. [Recommendation](LevRecommendationLetter.pdf)
-- 01.03.2022 - present / Looking for job opportunities outside of Russia
+- 01.03.2022 - present / Looking for job opportunities outside of Russia, planning to relocate asap
 
