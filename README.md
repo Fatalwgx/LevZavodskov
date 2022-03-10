@@ -35,12 +35,8 @@ During my work at MPI one of the tasks I was reponsible for was catching discrep
 
 ## Courses
 
-02/2020 Python programming self-study
-
-05/2020 Java programming, Syntax,Core, partially multithreading and collections. During the course solved hundreds of logical tasks that were developed to teach common programming patterns. 
-
-09/2020 html5/css3 + slightly into javascript and php.
-
-08/2021 Software QA training
-
-11/2021 Selenium webdriver course
+- 02/2020 Python programming self-study
+- 05/2020 Java programming, Syntax,Core, partially multithreading and collections. During the course solved hundreds of logical tasks that were developed to teach common programming patterns. 
+- 09/2020 html5/css3 + slightly into javascript and php.
+- 08/2021 Software QA training
+- 11/2021 Selenium webdriver course
