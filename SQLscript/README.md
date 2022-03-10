@@ -4,7 +4,7 @@
 
 Automated SQL comparator used to find discrepancies between two similar or supposedly identical tables, dbs.
 
-In production this code was compiled as an executable to avoid any enviromental requiremts to run it.
+In production this code was compiled as an executable to avoid any environmental requiremts to run it.
 
 ### Steps to run it:
 
