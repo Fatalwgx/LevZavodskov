@@ -1,12 +1,12 @@
 # SQL script
 
-Created by Lev Zavodskov
+### Created by Lev Zavodskov
 
 Automated SQL comparator used to find discrepancies between two similar or supposedly identical tables, dbs.
 
 In production this code was compiled as an executable to avoid any enviromental requiremts to run it.
 
-Steps to run it:
+### Steps to run it:
 
 Pre-step: Establish background SSH tunnel or SSH based corporate vpn
 1) Respecify credentials, version, logs save directory and "date related criteria" in config.ini according to your needs
