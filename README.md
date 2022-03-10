@@ -6,7 +6,7 @@
 
 [Recomendation letter from last workplace](LevRecommendationLetter.pdf)
 
-[English certification](https://www.efset.org/cert/QqPVNG)
+[English Advanced (C1) certification](https://www.efset.org/cert/QqPVNG)
 
 [Software Quality Assurance training courses](certificate.pdf)
 
