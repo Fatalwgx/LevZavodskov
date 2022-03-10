@@ -6,7 +6,7 @@ Automated SQL comparator used to find discrepancies between two similar or suppo
 
 In production [this code](SQLscript/main.py) was compiled as an executable to avoid any environmental requirements to run it.
 
-### Steps to run it:
+### Steps to run:
 
 Pre-step: Establish background SSH tunnel or SSH based corporate vpn
 1) Respecify credentials, version, logs save directory and "date related criteria" in [config.ini](SQLscript/config.ini) according to your needs
