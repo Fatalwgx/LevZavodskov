@@ -4,14 +4,14 @@
 
 Automated SQL comparator used to find discrepancies between two similar or supposedly identical tables, dbs.
 
-In production this code was compiled as an executable to avoid any environmental requiremts to run it.
+In production [this code](SQLscript/main.py) was compiled as an executable to avoid any environmental requiremts to run it.
 
 ### Steps to run it:
 
 Pre-step: Establish background SSH tunnel or SSH based corporate vpn
-1) Respecify credentials, version, logs save directory and "date related criteria" in config.ini according to your needs
-2) Specify codes for testing universes in universes.txt
-3) Specify column names in columnnames.txt
+1) Respecify credentials, version, logs save directory and "date related criteria" in [config.ini](SQLscript/config.ini) according to your needs
+2) Specify codes for testing universes in [universes.txt](SQLscript/universes.txt)
+3) Specify column names in [columnnames.txt](SQLscript/columnnames.txt)
 4) Run main.exe
 
 Output:
