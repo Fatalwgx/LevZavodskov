@@ -4,7 +4,7 @@
 
 Automated SQL comparator used to find discrepancies between two similar or supposedly identical tables, dbs.
 
-In production [this code](SQLscript/main.py) was compiled as an executable to avoid any environmental requirements to run it.
+In production [this code](https://github.com/Fatalwgx/LevZavodskov/blob/main/SQLscript/main.py) was compiled as an executable to avoid any environmental requirements to run it.
 
 ### Steps to run:
 
