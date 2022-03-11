@@ -9,9 +9,9 @@ In production [this code](https://github.com/Fatalwgx/LevZavodskov/blob/main/SQL
 ### Steps to run:
 
 Pre-step: Establish background SSH tunnel or SSH based corporate vpn
-1) Respecify credentials, version, logs save directory and "date related criteria" in [config.ini](SQLscript/config.ini) according to your needs
-2) Specify codes for testing universes in [universes.txt](SQLscript/universes.txt)
-3) Specify column names in [columnnames.txt](SQLscript/columnnames.txt)
+1) Respecify credentials, version, logs save directory and "date related criteria" in [config.ini](https://github.com/Fatalwgx/LevZavodskov/blob/main/SQLscript/config.ini) according to your needs
+2) Specify codes for testing universes in [universes.txt](https://github.com/Fatalwgx/LevZavodskov/blob/main/SQLscript/universes.txt)
+3) Specify column names in [columnnames.txt](https://github.com/Fatalwgx/LevZavodskov/blob/main/SQLscript/columnnames.txt)
 4) Run main.exe
 
 Output:
