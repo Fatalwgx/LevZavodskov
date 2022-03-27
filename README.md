@@ -18,7 +18,7 @@ Shortly after the course I was employed at IT TEST tula as QA engineer and assig
 - 09.11.2021 - present / Employed at "IT TEST tula" outstaff company as a remote Manual QA Engineer
   - 09.11.2021 - 01.03.2022 / Assigned to an American database redesign project at Markov Processes International as 
   Middle Manual QA Engineer. [Recommendation](LevRecommendationLetter.pdf)
-- 01.03.2022 - present / Looking for job opportunities outside of Russia, planning to relocate asap
+- 01.03.2022 - present / Continue to work on internal project and at the same time looking for job opportunities outside of Russia, planning to relocate asap
 
 ## Code Examples
 ### Database Comparartor
@@ -26,14 +26,18 @@ During my work at MPI one of the tasks I was reponsible for was catching discrep
 
 - [README](SQLscript/README.md) describes how it works and neccessary steps to run it
 - [main.py](SQLscript/main.py) source file in which you can review the code
-- [Folder](https://github.com/Fatalwgx/LevZavodskov/tree/main/SQLscript) with the script and it's dependancies
+- [Folder](https://github.com/Fatalwgx/LevZavodskov/tree/main/SQLscript) with the script and it's dependencies
+### Selenium webdriver, pytest tests
+Tests written as the final task during automation testing course.
 
+- [README](https://github.com/Fatalwgx/AutomationCourseFinalTask/blob/6d35d31050d12273f0ea3a3ec272b1a3c7d6f65d/README.md) explains how to run them on windows
+- [Repository](https://github.com/Fatalwgx/AutomationCourseFinalTask) with test files and their dependencies
 ## Courses
 - 02/2020 Python programming self-study
 - 05/2020 Java programming, Syntax,Core, partially multithreading and collections. During the course solved hundreds of logical tasks that were developed to teach common programming patterns. 
-- 09/2020 html5/css3 + slightly into javascript and php.
+- 09/2020 html5/css3 + slightly into javascript
 - 08/2021 Software QA training
-- 10/2021 Selenium webdriver course
+- 03/2022 Automation testing using Selenium and Python (webdriver, pytest)
 
 ## Contacts
 
