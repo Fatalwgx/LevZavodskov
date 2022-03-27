@@ -1,4 +1,17 @@
 # Lev Zavodskov
+## Links
+
+[Latest CV](Resume-Lev-Zavodskov.pdf)
+
+[Set of skills and experience](Internal_CV_Zavodskov_Lev_English.pdf)
+
+[Recomendation letter from last workplace](LevRecommendationLetter.pdf)
+
+[English Advanced (C1) certification](https://www.efset.org/cert/QqPVNG)
+
+[Software Quality Assurance training courses](certificateEnglish.pdf)
+
+[Automation testing using Selenium and Python](stepik-certificate-575-e6bbc29.pdf)
 
 ## About
 After graduating highschool and during my university years I was self-studying Python, didn't get much progress and decided to get a well structured Java developer course. During which I've been solving countless logical tasks, developing simple projects like encryptors and mini-games. Due to family issues had to stop the course half way through. In my spare time I've studied html/css and after a while decided to enroll into Software QA courses.
@@ -29,20 +42,6 @@ Tests written as the final task during automation testing course.
 - 09/2020 html5/css3 + slightly into javascript
 - 08/2021 [Software QA training](certificateEnglish.pdf)
 - 03/2022 [Automation testing using Selenium and Python (webdriver, pytest)](stepik-certificate-575-e6bbc29.pdf)
-## Links
-
-[Latest CV](Resume-Lev-Zavodskov.pdf)
-
-[Set of skills and experience](Internal_CV_Zavodskov_Lev_English.pdf)
-
-[Recomendation letter from last workplace](LevRecommendationLetter.pdf)
-
-[English Advanced (C1) certification](https://www.efset.org/cert/QqPVNG)
-
-[Software Quality Assurance training courses](certificateEnglish.pdf)
-
-[Automation testing using Selenium and Python](stepik-certificate-575-e6bbc29.pdf)
-
 
 ## Contacts
 
