@@ -113,13 +113,15 @@ def start_game(player):
 def launch_game(player1, player2):
     while True:
         user_moves(user_input_move(), player1)
-        trace_map(MAP_BOARD)
         if win_condition():
             break
+        else:
+            trace_map(MAP_BOARD)
         user_moves(user_input_move(), player2)
-        trace_map(MAP_BOARD)
         if win_condition():
             break
+        else:
+            trace_map(MAP_BOARD)
 
 
 def win_condition():
