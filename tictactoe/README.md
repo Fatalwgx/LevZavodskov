@@ -13,6 +13,7 @@ First turn goes to player 'X', the next to player 'O'. The game will stop once o
 
 For example:
 - "1 1" would leave players mark at first row, first square.
+
 Game state:
 
 | X _ _ |
@@ -23,6 +24,7 @@ Game state:
 
 
 - "2 3" would leave player's mark at second row, third square.
+
 Game state:
 
 | X _ _ |
