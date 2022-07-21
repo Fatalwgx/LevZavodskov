@@ -3,7 +3,7 @@
 
 [Latest CV](Resume-Lev-Zavodskov.pdf)
 
-[Set of skills and experience](Internal_CV_Zavodskov_Lev_English.pdf)
+[CV, skills and experience]()
 
 [Recomendation letter from last workplace](LevRecommendationLetter.pdf)
 
@@ -22,7 +22,7 @@ Shortly after the course I was employed at IT TEST tula as QA engineer and assig
 - 09.11.2021 - present / Employed at "IT TEST tula" outstaff company as a remote Manual QA Engineer
   - 09.11.2021 - 01.03.2022 / Assigned to an American database redesign project at Markov Processes International as 
   Middle Manual QA Engineer. [Recommendation](LevRecommendationLetter.pdf)
-- 01.03.2022 - present / Continue to work on internal project and at the same time looking for job opportunities outside of Russia, planning to relocate asap
+- 01.03.2022 - present / Asigned to "VK" to work on digital document management system as Manual Software QA Engineer
 
 ## Code Examples
 ### Database Comparartor
@@ -47,8 +47,8 @@ Tests written as the final task during automation testing course.
 
 Email: nothingfatalleo@gmail.com
 
-Telegram: @Fatalwgx
+Telegram: https://t.me/Fatalwgx
 
 Phone number: +7(918)313-47-27
 
-Available at any time night and day
+Available at any time
