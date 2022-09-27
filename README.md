@@ -37,6 +37,7 @@ Tests written as the final task during automation testing course.
 - 09/2020 html5/css3 + slightly into javascript
 - 08/2021 [Software QA training](certificateEnglish.pdf)
 - 03/2022 [Automation testing using Selenium and Python (webdriver, pytest)](stepik-certificate-575-e6bbc29.pdf)
+- 09/2022-11/22022 *In progress* Automation testing using Python(Selenium, Selene(API for Selenium), CI/CD, Pipelines, Requests, Rest API, Pytest, Github, Jenkins, Allure Report, Allure TestOps, Selenoid , Messenger reports(relegram/slack))
 
 ## Contacts
 
