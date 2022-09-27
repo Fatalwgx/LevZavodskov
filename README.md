@@ -10,8 +10,7 @@
 [Automation testing using Selenium and Python](stepik-certificate-575-e6bbc29.pdf)
 
 ## About
-After graduating highschool and during my university years I was self-studying Python, didn't get much progress and decided to get a well structured Java developer course. During which I've been solving countless logical tasks, developing simple projects like encryptors and mini-games. Due to family issues had to stop the course half way through. In my spare time I've studied html/css and after a while decided to enroll into Software QA courses.
-Shortly after the course I was employed at IT TEST tula as QA engineer and assigned to a foreign project at an American company "Markov Processes International". Currently I am looking for job opportunities outside of Russia with potential relocation options.
+Stated working as QA engineer at Eldorado through an outsource company contacted with it. Due to inabillity to transfer to official contract decided to transfer to a different company. Shortly after I was employed at IT TEST tula as Middle QA engineer and assigned to a foreign project at an American company "Markov Processes International". Due russian agression agaisnt sovereign Ukraine cooperation ended and I was transfered to VK to work on automated document management systems. Currently I am looking for job opportunities outside of russia with potential relocation options.
 
 ## Experience
 - 15.08.2019 - 25.10.2021 - Unofficial 2 years of QA experience in an outsource company working for one of the biggest russian marketplaces
