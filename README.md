@@ -3,13 +3,9 @@
 
 [Latest CV](Resume-Lev-Zavodskov.pdf)
 
-[CV, skills and experience]()
-
 [Recomendation letter from last workplace](LevRecommendationLetter.pdf)
 
 [English Advanced (C1) certification](https://www.efset.org/cert/QqPVNG)
-
-[Software Quality Assurance training courses](certificateEnglish.pdf)
 
 [Automation testing using Selenium and Python](stepik-certificate-575-e6bbc29.pdf)
 
