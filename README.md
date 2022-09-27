@@ -18,8 +18,8 @@ After graduating highschool and during my university years I was self-studying P
 Shortly after the course I was employed at IT TEST tula as QA engineer and assigned to a foreign project at an American company "Markov Processes International". Currently I am looking for job opportunities outside of Russia with potential relocation options.
 
 ## Experience
-- 02.08.2021 - 25.10.2021 / [Attended 3-month long Software Quality Assurance training courses](certificateEnglish.pdf)
-- 09.11.2021 - present / Employed at "IT TEST tula" outstaff company as a remote Manual QA Engineer
+- 15.08.2020 - 25.10.2021 - Unofficial 2 years of QA experience in an outsource company working for one of the biggest russian marketplaces
+- 09.11.2021 - present / Employed at "IT TEST tula" outstaff company as a remote Middle Manual QA Engineer
   - 09.11.2021 - 01.03.2022 / Assigned to an American database redesign project at Markov Processes International as 
   Middle Manual QA Engineer. [Recommendation](LevRecommendationLetter.pdf)
 - 01.03.2022 - present / Asigned to "VK" to work on digital document management system as Manual Software QA Engineer
